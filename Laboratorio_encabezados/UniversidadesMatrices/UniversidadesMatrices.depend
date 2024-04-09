@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1712616895 source:c:\users\home\desktop\materiales u\3ersemestre\progra1\tareasprogra1\laboratorio_encabezados\universidadesmatrices\src\generanotas.cpp
+	"GeneraNotas.h"
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+	<iomanip>
+
+1712616895 c:\users\home\desktop\materiales u\3ersemestre\progra1\tareasprogra1\laboratorio_encabezados\universidadesmatrices\include\generanotas.h
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+	<iomanip>
+
+1712614926 source:c:\users\home\desktop\materiales u\3ersemestre\progra1\tareasprogra1\laboratorio_encabezados\universidadesmatrices\main.cpp
+	<iostream>
+	"GeneraNotas.h"
+
